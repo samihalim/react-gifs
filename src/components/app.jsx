@@ -5,6 +5,8 @@ import SearchBar from './search_bar';
 import Gif from './gif';
 import GifList from './gif_list';
 
+console.log("hello");
+
 const GIPHY_API_KEY = 'dwnDLLYVvOcb8WztFOhJFujN6arwPfmV';
 
 class App extends Component {
